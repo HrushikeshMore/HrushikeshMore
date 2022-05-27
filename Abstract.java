@@ -12,7 +12,7 @@ abstract class B extends A{
  class C extends B{
 	@Override
 	void m2(){
-		System.out.println("m2 solution");
+		System.out.println("m2 Abc solution");
 	}
 	
 }
